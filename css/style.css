@@ -111,7 +111,7 @@ nav {
 }
 header {
 	padding: 25px 0 30px;
-	border-top: 5px solid #5bbd50;
+	border-top: 5px solid #723C8A;
 }
 .contact {
 	font-size: 20px;
@@ -146,7 +146,7 @@ header {
 	transition: all 0.3s;
 }
 .menu a:hover {
-	color: #69c15f;
+	color: #723C8A;
 }
 .menu li:last-child a {
 	border: 0;
@@ -177,7 +177,7 @@ header {
 	border: 0;
 }
 .login a:hover {
-	color: #69c15f;
+	color: #723C8A;
 }
 .backgraound {
 	background: url(../images/backgraound.jpg) no-repeat;
@@ -270,7 +270,7 @@ header {
 	padding: 7px;
 }
 .search {
-	background-color: #5bbd50;
+	background-color: #723C8A;
 	margin-left: 20px;
 	padding: 10px 25px;
 	border-radius: 4px;
@@ -377,7 +377,7 @@ header {
 	margin: 10px 5px 15px;
 	font-size: 16px;
 	font-weight: 700;
-	color: #5bbd50;
+	color: #723C8A;
 }
 .title p {
 	font-size: 15px;
@@ -478,7 +478,7 @@ header {
 	font-weight: 700;
 }
 .order a:hover {
-	color: #69c15f;
+	color: #723C8A;
 }
 .order {
 	background-color: #f1f1f1;
@@ -529,7 +529,7 @@ header {
 	margin-top: 10px;
 }
 .button {
-	background-color: #0C0;
+	background-color: #723C8A;
 	margin: 45px 20px;
 	padding: 10px;
 	border: 2px solid #FFF;
@@ -558,7 +558,7 @@ header {
 }
 .det h3 {
 	font-family: 'Lobster Two', cursive;
-	color: #5bbd50;
+	color: #723C8A;
 	font-size: 20px;
 	margin: 15px 0 0;
 	font-weight: 700;
@@ -578,7 +578,7 @@ header {
 	font-weight: 700;
 }
 .sitelink span {
-	color: #5bbd50;
+	color: #ffffff;
 }
 .sitelink a {
 	color: #9d9d9d;
@@ -604,7 +604,7 @@ header {
 	margin-left: 5px;
 }
 .social i {
-	color: #5bbd50;
+	color: #ffffff;
 }
 .social li {
 	border-bottom: 1px dashed #9d9d9d;
@@ -634,7 +634,7 @@ header {
 	padding: 6px;
 }
 .sub {
-	background-color: #0C0;
+	background-color: #723C8A;
 	padding: 8px;
 	border-radius: 4px;
 	cursor: pointer;
@@ -655,7 +655,7 @@ header {
 	padding: 40px 0 40px;
 }
 .email {
-	color: #5bbd50;
+	color: #ffffff;
 	font-weight: 600;
 }
 /*Paste this css to your style sheet file or under head tag */
@@ -680,7 +680,7 @@ if it's not present, don't show loader */
 	background: url(../images/triangle.svg) center no-repeat #000;
 }
 
-.freetemplates { color: #5bbd50;
+.freetemplates { color: #ffffff;
 	font-weight: 600;
 	}
 

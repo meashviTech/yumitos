@@ -333,7 +333,7 @@ header {
 	width: 110%;
 }
 .button {
-	background-color: #0C0;
+	background-color: #723C8A;
 	margin: 55px 0px;
 	padding: 10px;
 	border: 2px solid #FFF;
@@ -358,7 +358,7 @@ header {
 }
 .det h3 {
 	font-family: 'Lobster Two', cursive;
-	color: #5bbd50;
+	color: #723C8A;
 	font-size: 14px;
 }
 .det p {
@@ -1066,7 +1066,7 @@ header {
 	font-size: 18px;
 }
 .email {
-	color: #5bbd50;
+	color: #ffffff;
 	font-weight: 600;
 	text-align: center;
 }
